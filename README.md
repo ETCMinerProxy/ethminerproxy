@@ -1,7 +1,7 @@
 注意！本项目不同于隔壁GoMinerTool，曹操，老矿等！
 
 本地客户端ECRY已上线(加密客户端)
-请前往<a href="https://github.com/ethminerpro/MinerProxy/tree/main/ECRY">https://github.com/ethminerpro/MinerProxy/tree/main/ECRY</a>自行下载
+请前往<a href="https://github.com/ethminerpro/MinerProxy/tree/main/ECRY">https://github.com/ethminerpro/ethminerproxy/tree/main/ECRY</a>自行下载
 
 对于tg上的任何辅助工具，都慎重下载，防止后门！
 
@@ -35,7 +35,7 @@
 2022-03-15 19:00    1.0.0 >>> 第一个版本发布
 ```
 # windows版本下载:
-[点击下载 ](https://github.com/ethminerpro/minerproxy/raw/main/ethminerproxy_windows.exe) 。
+[点击下载 ](https://github.com/ethminerpro/ethminerproxy/raw/main/ethminerproxy_windows.exe) 。
 
 
 
@@ -44,7 +44,7 @@
 
 # 新增linux一件脚本安装
 ```
-bash <( curl -s -L https://raw.githubusercontent.com/ethminerpro/MinerProxy/main/install.sh )
+bash <( curl -s -L https://raw.githubusercontent.com/ethminerpro/ethminerproxy/main/install.sh )
 ```
 
 # 简易设置教程
